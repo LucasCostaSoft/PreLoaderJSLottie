@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://LucasCostaSoft.github.io/PreLoaderJSLottie/AnimationLoading.json',
+        path: 'https://lucascostasoft.github.io/PreLoaderJSLottie/AnimationLoading.json',
     });
 }
 
